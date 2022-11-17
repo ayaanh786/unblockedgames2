@@ -1,7 +1,7 @@
 
 self.app = {
 	debug: true,
-	cacheName: "whitespider",
+	cacheName: "Hussain",
 	cacheVersion: "1.1.0-beta1",
 	cacheList: [],
 	headers: {
